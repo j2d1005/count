@@ -6,6 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <Counter />
+        테스트중
       </div>
     );
   }
